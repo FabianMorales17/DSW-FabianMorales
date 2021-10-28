@@ -85,9 +85,9 @@
 
 .foto {
     
-    margin-right: 700px;
+    margin-right: 100px;
     text-align: left;
-
+    width: 40%;
 }
 
 .table {
@@ -104,9 +104,9 @@
     
 }
 
-.centrado {
+.table2 {
    
-    margin-left: auto;
-    margin-right: auto;
-    
+    margin-left: 800px;
+ 
+       
 }
